@@ -9,9 +9,8 @@ A Python desktop application to evaluate the strength of your password using the
 - Estimated time to crack
 - Intuitive and responsive interface
 
-## 🖼️ Screenshot
+![image](https://github.com/user-attachments/assets/f4ec7c4d-aa35-485b-8a16-16017da94447)
 
-![Screenshot](docs/screenshot.png)  <!-- Add a screenshot later -->
 
 ## 🛠️ Tech Stack
 
