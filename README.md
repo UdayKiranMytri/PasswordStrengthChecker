@@ -24,4 +24,4 @@ A Python desktop application to evaluate the strength of your password using the
 git clone https://github.com/UdayKiranMytri/PasswordStrengthChecker.git
 cd PasswordStrengthChecker
 pip install -r requirements.txt
-python password_strength_checker.py
+python cyber_project.py
